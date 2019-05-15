@@ -7,5 +7,5 @@ class Cat
 end
 
 maru = Cat.new
-maru.name = "Maruuu"
+maru.name = "Maru"
 maru.meow
