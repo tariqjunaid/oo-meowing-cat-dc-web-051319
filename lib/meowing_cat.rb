@@ -8,3 +8,4 @@ end
 
 maru = Cat.new
 maru.name = "Maruuu"
+maru.name
